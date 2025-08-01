@@ -16,7 +16,7 @@
 - 📝 I regularly write articles on **[Scopus](Scopus)**
 - 💬 Ask me about **Machine Learning, TTS for Kyrgyz Language**
 - 📫 How to reach me **zarina.uvalievaa@gmail.com**
-- 🏆My [LINKDIN]( https://www.linkedin.com/in/zarina-uvalieva-a31320238)
+- 🏆My [LINKEDIN]( https://www.linkedin.com/in/zarina-uvalieva-a31320238)
 - ⚡ Fun fact **I think I am fast learning**
 
 ## 🌐 Connect with me:
