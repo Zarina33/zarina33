@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Machine+Learning+Engineer;AI+Researcher+from+Kyrgyzstan;GPU+Optimization+Enthusiast;TTS+for+Kyrgyz+Language" alt="Typing SVG" />
 </div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zarina33&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="zarina33" />
-</p>
 
 ## 🚀 About Me
 - 🔭 I'm currently working on **[RAG SYSTEM](https://github.com/Zarina33/RAG_SYSTEM_FULL)**
