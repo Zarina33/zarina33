@@ -9,8 +9,7 @@
 - 🔭 I'm currently working on **[RAG SYSTEM](https://github.com/Zarina33/RAG_SYSTEM_FULL)**
 - 🌱 I'm currently learning **GPU optimizing**
 - 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/Zarina33)**
-- 📝 I regularly write articles on **[Scopus](Scopus)**
-- 💬 Ask me about **Machine Learning, TTS for Kyrgyz Language**
+- 💬 Ask me about **Machine Learning, NLP for Kyrgyz Language and Computer Vision**
 - 📫 How to reach me **zarina.uvalievaa@gmail.com**
 - 🏆My [LINKEDIN]( https://www.linkedin.com/in/zarina-uvalieva-a31320238)
 - ⚡ Fun fact **I think I am fast learning**
