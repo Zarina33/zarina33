@@ -6,7 +6,7 @@
 
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **[RAG SYSTEM](https://github.com/Zarina33/RAG_SYSTEM_FULL)**
+- 🔭 I'm currently working on **Custom Solutions for Business**
 - 🌱 I'm currently learning **GPU optimizing**
 - 👨‍💻 All of my projects are available at **[My GitHub](https://github.com/Zarina33)**
 - 💬 Ask me about **Machine Learning, NLP for Kyrgyz Language and Computer Vision**
@@ -65,23 +65,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 </p>
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zarina33&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="zarina33" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zarina33&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="zarina33" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zarina33&theme=radical&hide_border=true" alt="zarina33" />
-</div>
-
-## 📈 Activity Graph:
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zarina33&theme=radical&hide_border=true" alt="zarina33" />
-</div>
 
 ## 🎯 Current Focus:
 ```python
