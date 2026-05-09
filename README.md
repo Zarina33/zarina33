@@ -1,9 +1,5 @@
 # Hi there! 👋 I'm Zarina
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=520&lines=Machine+Learning+Engineer+%26+Researcher;Creator+of+AiRUN+%E2%80%94+%231+Kyrgyz+LLM;LLMs+%7C+Agentic+RAG+%7C+NLP+%7C+CV+%7C+Speech;Low-Resource+Turkic+NLP+Researcher" alt="Typing SVG" />
-</div>
-
 ## 🚀 About Me
 
 ML Engineer & AI Researcher from Kyrgyzstan. 3 years of production experience shipping LLMs, agentic RAG systems, NLP and Computer Vision at **100K+ user scale**. Published researcher in low-resource Turkic NLP.
@@ -81,3 +77,21 @@ ML Engineer & AI Researcher from Kyrgyzstan. 3 years of production experience sh
 ## 🎯 Current Focus
 
 ```python
+current_focus = {
+    "shipping":    ["AiRUN — #1 Kyrgyz LLM", "Bakai Bank agentic RAG", "Sales agent for Bakai Digital"],
+    "researching": ["LoRA dynamics for low-resource Turkic", "Cross-lingual emotion encoding in LLMs",
+                    "Layered AI oversight in legal domain"],
+    "learning":    ["GPU optimization", "Inference performance tuning"],
+    "mission":     "Bringing modern AI to Central Asian languages",
+}
+```
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zarina33&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  💫 <i>Let's connect and build something amazing together!</i> 💫
+</div>
