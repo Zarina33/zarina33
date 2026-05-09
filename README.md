@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-ML Engineer & AI Researcher from Kyrgyzstan. 3 years of production experience shipping LLMs, agentic RAG systems, NLP and Computer Vision at **100K+ user scale**. Published researcher in low-resource Turkic NLP.
+ML Engineer & AI Researcher from Kyrgyzstan. 3+ years of production experience shipping LLMs, agentic RAG systems, NLP and Computer Vision at **100K+ user scale**. Published researcher in low-resource Turkic NLP.
 
 - 🔭 Creator of **[AiRUN](https://airun.kg)** — world's #1 Kyrgyz LLM, beats **Gemma 3:27B** on PIQA, HellaSwag, BoolQ
 - 🏦 Co-built a production **agentic RAG chatbot for Bakai Bank** (12-stage state machine, hybrid retrieval, multilingual RU/KG/EN)
